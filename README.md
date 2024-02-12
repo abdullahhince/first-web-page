@@ -1,2 +1,3 @@
 # first-web-page
- movie-page
+
+html ve css kullanarak ilk web sayfam
